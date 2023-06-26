@@ -14,7 +14,7 @@ Os dados de texto dos itens coletados foram inseridos no dataset "df_itens_geral
 - co_habilidade: Código que identifica a habilidade associada ao item.
 - in_item_aban: Indica se o item foi abandonado ou não.
 - tx_motivo_aban: Descreve o motivo pelo qual o item foi abandonado, caso aplicável.
-- nu_param_a, nu_param_b, nu_param_c: Parâmetros numéricos associados ao item.
+- nu_param_a, nu_param_b, nu_param_c: Parâmetros da TRI associados ao item.
 - tx_cor: Cor da prova em que o item foi aplicado.
 - co_prova: Código que identifica a prova em que o item foi aplicado.
 - id: Identificador único do item.
