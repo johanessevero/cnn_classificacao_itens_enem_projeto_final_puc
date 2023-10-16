@@ -31,3 +31,4 @@ Os dados de texto dos itens coletados foram inseridos no dataset "df_itens_geral
 - tp_versao_digital: Tipo de versão digital do item.
 
 Relatório técnico completo: https://github.com/johanessevero/cnn_classificacao_itens_enem_projeto_final_puc/blob/main/relatorio_tecnico.pdf
+Apresentação: https://github.com/johanessevero/cnn_classificacao_itens_enem_projeto_final_puc/blob/main/apresenta%C3%A7%C3%A3o_johanes1.pdf
